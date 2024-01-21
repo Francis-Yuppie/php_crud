@@ -7,5 +7,7 @@ Install
 
           clone the repo
           Note:: use cdn bootstrap links for styling or download bootstrap file and use it offline 
-          I have provided the database sql code you can just import it into your phpmyadmin to generate the tables 
+          I have provided the database sql code (file: phpcrud.sql) you can just import it into your phpmyadmin to generate the tables 
           and populate data
+
+          for styling use bootstrap cdn links i have provided them in .gitignore file
